@@ -1,0 +1,15 @@
+{  
+  "name": "ai-chatbot",  
+  "version": "4.2.2",  
+  "description": "AI数据处理。",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git", 
+    "url": "https://github.com/zerokongz/ai-chatbot" 
+  },  
+  "license": "ISC", 
+  "homepage": "https://github.com/zerokongz/ai-chatbot"
+}
